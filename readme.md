@@ -12,8 +12,8 @@ npm install to setup
 
 
 .env<br>
-VITE_SUPABASE_URL<br>
-VITE_SUPABASE_KEY<br>
+VITE_SUPABASE_URL=XXXXXX<br>
+VITE_SUPABASE_KEY=XXXXXX<br>
 
 DB Table
 

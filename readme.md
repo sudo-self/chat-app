@@ -8,7 +8,7 @@ PostgeSQL via [Supabase](https://supabase.io/)
 
 Build Node.js
 
-npm install<<br>
+npm install<br>
 npm run dev<br>
 npm run build<br>
 

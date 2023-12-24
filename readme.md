@@ -40,6 +40,12 @@ CREATE TABLE messages (
   timestamp timestamp default now() NOT NULL
 );
 ```
+<img width="1281" alt="Screenshot 2023-12-24 at 8 51 11 AM" src="https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/94b0e422-1ded-4358-ac34-5de935da5bbb">
+
+
+
+
+
 Supabase Enable Realtime<br>
 0Auth  callback URL: https://<project-ref>.supabase.co/auth/v1/callback<br>
 ![IMG_2978](https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/7419d53e-9e0d-4042-8f64-3d469129d4ac)

@@ -45,5 +45,6 @@ Supabase Enable Realtime
 
 0Auth  callback URL: https://<project-ref>.supabase.co/auth/v1/callback
 
-![IMG_2978](https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/c29432e3-e1d1-4452-a9de-b44c24270ae8)
+![IMG_2978](https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/7419d53e-9e0d-4042-8f64-3d469129d4ac)
+
 

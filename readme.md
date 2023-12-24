@@ -1,4 +1,4 @@
-# Fullstack-Supabase-Chat 
+# react-vite-supabase-0Auth-fullstack
 
 PostgeSQL managed by [Supabase](https://supabase.io/)
 [@supabase_io](https://twitter.com/supabase_io) (awsome real-time API).

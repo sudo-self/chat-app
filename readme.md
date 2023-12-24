@@ -8,7 +8,9 @@ PostgeSQL via [Supabase](https://supabase.io/)
 
 Build Node.js
 
-npm install to setup
+npm install<<br>
+npm run dev<br>
+npm run build<br>
 
 
 .env<br>
@@ -43,6 +45,4 @@ Supabase Enable Realtime
 
 0Auth  callback URL: https://<project-ref>.supabase.co/auth/v1/callback
 
-npm run dev
 
-npm run build

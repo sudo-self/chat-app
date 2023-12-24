@@ -1,8 +1,7 @@
 # react-vite-supabase-0Auth-fullstack
 
-PostgeSQL managed by [Supabase](https://supabase.io/)
-[@supabase_io](https://twitter.com/supabase_io) (awsome real-time API).
- 
+PostgeSQL via [Supabase](https://supabase.io/)
+
 - Front-end React + Vite
   
 - Hosting [vercel](https://www.vercel.com/)

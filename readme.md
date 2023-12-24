@@ -11,9 +11,9 @@ Build Node.js
 npm install to setup
 
 
-.env
-VITE_SUPABASE_URL
-VITE_SUPABASE_KEY
+.env<br>
+VITE_SUPABASE_URL<br>
+VITE_SUPABASE_KEY<br>
 
 DB Table
 

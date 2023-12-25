@@ -40,6 +40,9 @@ CREATE TABLE messages (
   timestamp timestamp default now() NOT NULL
 );
 ```
+<img width="1440" alt="Screenshot 2023-12-24 at 10 22 46 PM" src="https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/89b8e22f-e41b-4733-93b8-5f6bd390bf2f">
+
+
 <img width="1281" alt="Screenshot 2023-12-24 at 8 51 11 AM" src="https://github.com/sudo-self/react-vite-supabase-0Auth-fullstack/assets/119916323/94b0e422-1ded-4358-ac34-5de935da5bbb">
 
 
